@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: white
+}
+
+h1 {
+    color: green;
+}
+
+.custom-text-class {
+    color: purple;
+}
